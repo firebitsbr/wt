@@ -3,22 +3,14 @@ DerivedDataCache
 Intermediate
 Saved
 
-Content/KiteDemo
+Content/Collections
+Content/Developers
+Content/Geometry
+Content/Mannequin
 Content/Megascans
 Content/MSPresets
-Content/ProceduralNaturePack
-Content/StarterContent
-Content/PN_FoliageCollection
-Content/PN_MeadowFlowers
-Content/MS_DebrisV2
-Content/MS_MossEss
-Content/MS_SandsEss
-Content/Weapon_Pack
-Content/AnimalVarietyPack
-Content/Mannequin
 Content/ThirdPerson
 Content/ThirdPersonBP
-Content/Geometry
 
 .vscode
 .vs
