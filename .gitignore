@@ -15,6 +15,10 @@ Content/MS_MossEss
 Content/MS_SandsEss
 Content/Weapon_Pack
 Content/AnimalVarietyPack
+Content/Mannequin
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/Geometry
 
 .vscode
 .vs
