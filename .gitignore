@@ -3,18 +3,18 @@ DerivedDataCache
 Intermediate
 Saved
 
-Content/KiteDemo
+Content/3rdPersonTemplate
+Content/Collections
+Content/Developers
+Content/Geometry
+Content/Light_Foliage
+Content/Mannequin
 Content/Megascans
 Content/MSPresets
-Content/ProceduralNaturePack
+Content/PN_OpenWorldFoliage
 Content/StarterContent
-Content/PN_FoliageCollection
-Content/PN_MeadowFlowers
-Content/MS_DebrisV2
-Content/MS_MossEss
-Content/MS_SandsEss
-Content/Weapon_Pack
-Content/AnimalVarietyPack
+Content/ThirdPerson
+Content/ThirdPersonBP
 
 .vscode
 .vs
@@ -27,3 +27,5 @@ Content/AnimalVarietyPack
 *.xcodeproj
 *.xcworkspace
 *.zip
+
+PN_OpenWorldFoliage.png
