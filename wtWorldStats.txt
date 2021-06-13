@@ -1,0 +1,5 @@
+LowestPointZValueApprox=-63780
+HighestPointZValue=2460
+TotalWorldZSpan=66240
+MidZPoint=-30660
+Shoreline=-53000
